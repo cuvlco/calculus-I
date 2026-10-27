@@ -139,3 +139,110 @@
 <img width="763" height="289" alt="image" src="https://github.com/user-attachments/assets/488360fc-8103-4ec2-a3be-68ea1bbdc64d" />
 
 # 2.1
+
+# ΟΡΙΣΜΟΣ
+
+<img width="763" height="245" alt="image" src="https://github.com/user-attachments/assets/1eb13ae3-9c8a-46e3-9af6-69bc92335311" />
+<img width="763" height="320" alt="image" src="https://github.com/user-attachments/assets/a703d755-6162-497e-a0cf-64113a7cd64f" />
+
+# ΙΔΚ
+
+<img width="761" height="209" alt="image" src="https://github.com/user-attachments/assets/3c511b3a-22f3-4b7a-86b5-2bac8596bbbe" />
+
+# ΣΧΟΛΙΟ
+
+<img width="761" height="293" alt="image" src="https://github.com/user-attachments/assets/eccf8d2d-87b5-429b-b7b6-78896388760c" />
+
+# ΠΑΡΑΓΩΓΟΣ ΚΑΙ ΣΥΝΕΧΕΙΑ - ΑΝΤΙΠΑΡΑΔΕΙΓΜΑ ΓΙΑ ΤΟ ΑΝΤΙΣΤΡΟΦΟ
+
+<img width="761" height="319" alt="image" src="https://github.com/user-attachments/assets/2f91fbd6-3e28-4574-a3b9-77edf995f6df" />
+
+# ΘΕΩΡΗΜΑ
+
+<img width="763" height="158" alt="image" src="https://github.com/user-attachments/assets/f2fd6ca1-6029-440a-acca-e2ace67be141" />
+
+# ΑΠΟΔΕΙΞΗ
+
+<img width="763" height="420" alt="image" src="https://github.com/user-attachments/assets/5bb77f26-ddd9-493e-bc89-22aca8616b3f" />
+
+# ΣΧΟΛΙΟ - ΑΝΤΙΘΕΤΟΑΝΤΙΣΤΡΟΦΟ ΤΟΥ ΘΕΩΡΗΜΑΤΟΣ
+
+<img width="766" height="118" alt="image" src="https://github.com/user-attachments/assets/c8ab6fca-7aea-4ee3-9780-166c33a532af" />
+
+# 2.2
+
+# ΟΡΙΣΜΟΣ 1, 2 & 3
+
+<img width="766" height="274" alt="image" src="https://github.com/user-attachments/assets/fb47325c-467a-41b8-a74d-b017975719ff" />
+
+# ΟΡΙΣΜΟΣ
+
+<img width="766" height="240" alt="image" src="https://github.com/user-attachments/assets/6606e594-4696-4513-b863-5ef249f6ebb9" />
+
+# ΠΑΡΑΓΩΓΟΣ ΜΕΡΙΚΩΝ ΒΑΣΙΚΩΝ ΣΥΝΑΡΤΗΣΕΩΝ
+
+# ΘΕΩΡΗΜΑΤΑ
+
+<img width="766" height="154" alt="image" src="https://github.com/user-attachments/assets/3a7efbf2-acd3-464d-83db-4ba89d0def45" />
+<img width="766" height="129" alt="image" src="https://github.com/user-attachments/assets/49369f60-0a1f-4606-bf1f-ff443acb5a9b" />
+<img width="766" height="146" alt="image" src="https://github.com/user-attachments/assets/b10e350a-0dea-4313-ac6c-6da5b31f2b99" />
+<img width="766" height="195" alt="image" src="https://github.com/user-attachments/assets/2c19ca0d-ff6e-4dde-86b3-ccfb7d09cbed" />
+<img width="766" height="131" alt="image" src="https://github.com/user-attachments/assets/adf41dc5-798c-4735-ac8f-38f8b50c6db9" />
+<img width="766" height="131" alt="image" src="https://github.com/user-attachments/assets/6fc213d6-3e70-4a31-9124-40809d7e3bcb" />
+<img width="766" height="131" alt="image" src="https://github.com/user-attachments/assets/b280f35b-6f07-4e54-a4a8-753eaa7676fc" />
+<img width="760" height="175" alt="image" src="https://github.com/user-attachments/assets/670d1d84-d609-43ca-a91a-d28cc559c735" />
+
+# ΑΠΟΔΕΙΞΕΙΣ
+
+<img width="775" height="292" alt="image" src="https://github.com/user-attachments/assets/ef036f2a-a559-4489-94d8-d8a94d6a01e1" />
+<img width="775" height="292" alt="image" src="https://github.com/user-attachments/assets/493beaa0-a0d2-43a3-9661-61fa46964427" />
+<img width="775" height="292" alt="image" src="https://github.com/user-attachments/assets/ce9dfeeb-f64c-4cf4-801e-6816d47e2881" />
+<img width="775" height="331" alt="image" src="https://github.com/user-attachments/assets/12623058-f97a-48ba-84b5-b01a639993b4" />
+
+# 2.3
+
+# ΘΕΩΡΗΜΑ - ΠΑΡΑΓΩΓΟΣ ΑΘΡΟΙΣΜΑΤΟΣ
+
+<img width="775" height="192" alt="image" src="https://github.com/user-attachments/assets/8a60315c-983f-4b5d-9ce7-8c83c53b909b" />
+
+# ΑΠΟΔΕΙΞΗ
+
+<img width="775" height="380" alt="image" src="https://github.com/user-attachments/assets/040694d7-05eb-4caa-9c84-3501da6f4264" />
+
+# ΠΑΡΑΤΗΡΗΣΕΙΣ 1 & 2
+
+<img width="748" height="87" alt="image" src="https://github.com/user-attachments/assets/14cc033c-9937-4c57-aa60-2ef23cac8971" />
+<img width="757" height="109" alt="image" src="https://github.com/user-attachments/assets/fdaff8d5-4944-4fe0-8537-9f86d77c368b" />
+
+# ΘΕΩΡΗΜΑ - ΠΑΡΑΓΩΓΟΣ ΓΙΝΟΜΕΝΟΥ
+
+<img width="762" height="259" alt="image" src="https://github.com/user-attachments/assets/16d4bdce-13e1-4b51-a1c1-e32242e1459f" />
+
+# ΠΑΡΑΤΗΡΗΣΗ
+
+<img width="762" height="89" alt="image" src="https://github.com/user-attachments/assets/705a7338-c002-4dad-85fa-e0a4668f3882" />
+
+# ΑΠΟΔΕΙΞΗ
+
+<img width="763" height="298" alt="image" src="https://github.com/user-attachments/assets/da182ed4-2c07-48a5-8590-aa60fb7b9949" />
+
+
+# ΘΕΩΡΗΜΑ - ΠΑΡΑΓΩΓΟΣ ΠΗΛΙΚΟΥ
+
+<img width="762" height="356" alt="image" src="https://github.com/user-attachments/assets/e45b50a0-b151-4c4e-a5e1-16a1a222ccbf" />
+
+# ΠΑΡΑΤΗΡΗΣΗ
+
+<img width="763" height="191" alt="image" src="https://github.com/user-attachments/assets/59623ba1-4feb-4dda-ab0d-4411d7eeef12" />
+
+# ΘΕΩΡΗΜΑΤΑ
+
+<img width="763" height="130" alt="image" src="https://github.com/user-attachments/assets/0dfd417a-38a6-4e8c-9381-934d94312892" />
+<img width="763" height="177" alt="image" src="https://github.com/user-attachments/assets/afb3fb37-4ef0-46ef-aa88-77a936ddea65" />
+<img width="763" height="191" alt="image" src="https://github.com/user-attachments/assets/734a6804-ad85-465f-a766-3aa5460cb373" />
+
+
+# ΑΠΟΔΕΙΞΕΙΣ
+
+<img width="763" height="122" alt="image" src="https://github.com/user-attachments/assets/d18bda8a-480d-4fa4-b068-6d3b20882346" />
+<img width="763" height="178" alt="image" src="https://github.com/user-attachments/assets/fb2b1b27-07ea-41d1-b78c-8ba31c4a4759" />
